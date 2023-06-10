@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_news"
+        android:title="News"
+        android:icon="@drawable/ic_baseline_home_24"
+        ></item>
+
+    <item
+        android:id="@+id/action_team"
+        android:title="Team"
+        android:icon="@drawable/team1"
+    ></item>
+
+    <item
+        android:id="@+id/action_match"
+        android:title="Match"
+        android:icon="@drawable/match"
+        ></item>
+    <item
+        android:id="@+id/action_ranking"
+        android:title="Ranking"
+        android:icon="@drawable/ranking"
+        ></item>
+    <item
+        android:id="@+id/action_me"
+        android:title="Me"
+        android:icon="@drawable/me"
+        ></item>
+
+
+</menu>

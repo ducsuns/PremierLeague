@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332901666936",
+    "firebase_url": "https://btlmobile-93253-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "btlmobile-93253",
+    "storage_bucket": "btlmobile-93253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332901666936:android:8a370d9d97485b2d5e1d8d",
+        "android_client_info": {
+          "package_name": "com.example.btl_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332901666936-svebknadl589a9p2umm21ckqmm5h7q57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTaQLSC88C_r0aeiHiVwZbp5om0PRU87k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332901666936-svebknadl589a9p2umm21ckqmm5h7q57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom.xml" value="0.2505" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_back.xml" value="0.172" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_badge.xml" value="0.2125" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_button.xml" value="0.172" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_button2.xml" value="0.178" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_button_login_signin.xml" value="0.1185" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/custom_edittext.xml" value="0.143" />
+        <entry key="..\:/btl_mobile/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.172" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_dialog.xml" value="0.3614583333333333" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/activity_ticket_detail.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/fragment_match.xml" value="0.35475578406169667" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/fragment_me.xml" value="0.25" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/fragment_news.xml" value="0.3333333333333333" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/fragment_ranking.xml" value="0.3614583333333333" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/fragment_web.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/item_match.xml" value="0.3609375" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/item_news.xml" value="0.22" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/item_team.xml" value="0.3609375" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/item_ticket.xml" value="0.35989583333333336" />
+        <entry key="..\:/btl_mobile/app/src/main/res/layout/item_ticket_cart.xml" value="0.25" />
+        <entry key="..\:/btl_mobile/app/src/main/res/menu/menu_bottom_nav.xml" value="0.30364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

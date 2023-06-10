@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:weightSum="12"
+    android:layout_margin="10dp"
+    android:background="#FFFFFF"
+    >
+
+    <ImageView
+        android:id="@+id/imgTeam1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:padding="20dp"
+        android:gravity="center"
+        ></ImageView>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:weightSum="2"
+        android:orientation="vertical"
+        >
+    <TextView
+        android:id="@+id/dayMatch"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/timeMatch"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        ></TextView>
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/imgTeam2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        ></ImageView>
+
+
+
+
+</LinearLayout>
